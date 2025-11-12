@@ -1,5 +1,5 @@
 > [\!NOTE]
-> **Project Context (Cloudflare Application)**
+> **Project Context**
 >
 > This is a **fork** of the original **DocuFlow** repository! Please find the original repository below.
 >
