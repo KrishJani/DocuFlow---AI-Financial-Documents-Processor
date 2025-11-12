@@ -1,3 +1,25 @@
+> [\!NOTE]
+> **Project Context (Cloudflare Application)**
+>
+> This is a **fork** of the original **DocuFlow** repository! Please find the original repository below.
+>
+> This project was built by my team, **Skywalkers**, for the AWS Financial AI Hackathon 2025, where we developed a next-generation **AI-driven SuperApp** for auditors and chartered accountants. Our solution, **DocuFlow**, reimagines financial auditing through **mindmap-based workflows** powered by **LLMs and autonomous financial agents**.
+>
+>   * **Original Repository:** [DocuFlow](https://github.com/orgs/aws-financial-ai-hack-skywalkers77/repositories)
+>   * **My Teammates:** [Riddhi](https://github.com/riddhiRaina), [Hemanth](https://github.com/itsmrhem), [Yatharth](https://github.com/yatharthMogra) 
+>
+> The platform enables domain professionals to perform complete audit, compliance, and credit analysis workflows via interactive visual canvases that simulate real-world financial decision-making.
+
+>   * **Core Stack:** React, FastAPI, PostgreSQL, LangChain, OpenAI API, AWS (Lambda, S3)
+>   * **My Contribution:** Designed the multi-agent architecture for workflow orchestration, implemented the backend API layer using FastAPI and LangChain, and integrated the frontend mindmap canvas with live agent responses.
+>   * **Demo:** [Youtube Link](https://www.youtube.com/watch?v=VeF_WH0lBcg&t=6s)
+
+> Our team focused on making finance AI explainable and workflow-oriented — helping auditors visualize processes, validate data intelligently, and generate transparent AI-driven reports.
+
+> As our team worked quickly, one member managed the final code merges and deployments, which is why everyone's individual commits are not visible in the original repository's history. I have forked the project here to showcase the work and architecture our team delivered.
+
+-----
+
 # Document Processing Platform
 
 A document processing API built with Landing AI ADE (Agentic Document Extraction) for extracting data from invoices and contracts, vectorizing the extracted data, and storing it in PostgreSQL on AWS.
