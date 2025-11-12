@@ -9,13 +9,13 @@
 >   * **My Teammates:** [Riddhi](https://github.com/riddhiRaina), [Hemanth](https://github.com/itsmrhem), [Yatharth](https://github.com/yatharthMogra) 
 >
 > The platform enables domain professionals to perform complete audit, compliance, and credit analysis workflows via interactive visual canvases that simulate real-world financial decision-making.
-
+>
 >   * **Core Stack:** React, FastAPI, PostgreSQL, LangChain, OpenAI API, AWS (Lambda, S3)
 >   * **My Contribution:** Designed the multi-agent architecture for workflow orchestration, implemented the backend API layer using FastAPI and LangChain, and integrated the frontend mindmap canvas with live agent responses.
 >   * **Demo:** [Youtube Link](https://www.youtube.com/watch?v=VeF_WH0lBcg&t=6s)
-
+>
 > Our team focused on making finance AI explainable and workflow-oriented — helping auditors visualize processes, validate data intelligently, and generate transparent AI-driven reports.
-
+>
 > As our team worked quickly, one member managed the final code merges and deployments, which is why everyone's individual commits are not visible in the original repository's history. I have forked the project here to showcase the work and architecture our team delivered.
 
 -----
